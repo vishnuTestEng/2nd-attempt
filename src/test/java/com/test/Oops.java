@@ -9,5 +9,8 @@ public class Oops {
 		System.out.println("Employee gender is:Male");
 		
 	}
+	public void empId() {
+		System.out.println("Employee id is:123");
+	}
 
 }
